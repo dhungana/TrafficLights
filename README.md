@@ -6,7 +6,8 @@ PyGame
 
 # Usage:
 Run this in terminal:
-	```
+	
 	export time_start=$(date +%s)
+	
 	python traffic_simulation.py 0 $time_start & python traffic_simulation.py 1 $time_start
-	```
+	
